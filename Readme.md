@@ -1,4 +1,4 @@
-# Modelo MLP
+# Modelo MLP- TRABANO FINAL MATERIA DEEP LEARNING- DIPLOMA EN CIENCIA DE DATOS, APRENDIZAJE AUTOMATICO Y SUS APLICACIONES. GRUPO DE TRABAJO: RODRIGO RUIZ, FERNANDA BORGHELLO, ALFONSINA SZPEINER
 ## Detalle de los pasos seguidos
 ### Lectura de los datos
 Los datos para el problema se dividen en tres conjuntos: train, validation y test.
