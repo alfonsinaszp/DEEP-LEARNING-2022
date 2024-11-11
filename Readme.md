@@ -1,4 +1,7 @@
 # Modelo RNN-LSTM
+# Trabajo práctico Nº2 
+# MATERIA DEEP LEARNING- GRUPO Fernanda Borghello, Rodrigo Ruiz & Alfonsina Szpeiner
+# Diploma en CIENCIA DE DATOS, APRENDIZAJE AUTOMATICO Y SUS APLICACIONES, FAMAF (UNC)
 ## Detalle de los pasos seguidos
 ### Lectura de los datos
 Los datos para el problema se dividen en tres conjuntos: train, validation y test.
